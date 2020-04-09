@@ -1,2 +1,3 @@
-1.进入koa-todo nmp start 起服务器
-2.进入e2e-demo nmp test 测试
+1.增加了检查是否完成的测试和渲染事务数量的测试
+2.由于上传koa-todo和e2e-demo时出错，因此把修改过的文件单独上传
+3.使用的仍然是上课的koa-todo和e2e-demo
